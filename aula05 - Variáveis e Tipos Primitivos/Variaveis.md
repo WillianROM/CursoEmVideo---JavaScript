@@ -1,6 +1,6 @@
-https://www.cursoemvideo.com/curso/javascript/aulas/comandos-basicos-do-javascript/modulos/variaveis-e-tipos-primitivos/
+[Aula 05 - Variáveis e Tipos Primitivos](https://www.cursoemvideo.com/curso/javascript/aulas/comandos-basicos-do-javascript/modulos/variaveis-e-tipos-primitivos/)
 
-#Nomes de Identificadores:
+# Nomes de Identificadores:
 * Podem começar com letra, $ ou _
 * Não podem começar com números
 * É possível usar letrar ou números
@@ -8,14 +8,14 @@ https://www.cursoemvideo.com/curso/javascript/aulas/comandos-basicos-do-javascri
 * Não podem conter espaços
 * Não podem ser palavras reservadas
 
-Dicas:
+**Dicas:**
 * Maiúsculas e minúsculas fazem diferença
 * Tente escolher nomes coerentes para as variáveis
 * Evite se tornar um 'programador alfabeto' ou um 'programador contador'
 
 ---
-
-#Data Types
+ 
+## Data Types
 * number
     * Infinitu
     * NaN
