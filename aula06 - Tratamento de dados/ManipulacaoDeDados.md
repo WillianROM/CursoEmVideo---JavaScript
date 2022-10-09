@@ -30,13 +30,13 @@ n.toString()
 **Formatando Strings**
 
 ~~~javascript
-`var s = 'JavaScript'`
+var s = 'JavaScript'
 
-`'Eu estou aprendendo s'`         // não faz interpolação
+'Eu estou aprendendo s'            // não faz interpolação
 
-`'Eu estou aprendendo' + s`       // usa concatenação
+'Eu estou aprendendo' + s          // usa concatenação
 
-`Eu estou aprendendo ${s}`        // usa template string 
+`Eu estou aprendendo ${s}`         // usa template string 
 ~~~
 
 ---
@@ -49,6 +49,7 @@ s.toLowerCase()                 // tudo para 'minúsculas'
 ## Formatando Números
 ~~~javascript
 var n1 = 1543.5
+
 n1.toFixed(2)                                                       // Para mostrar o número flutuante com quantidade de casas decimais
 n1.toFixed(2).replace('.',',')                                      // Para substituir o ponto por vírgula para ficar no formato de moeda usado no Brasil
 
