@@ -1,4 +1,4 @@
-[Eventos DOM](https://www.cursoemvideo.com/curso/javascript/aulas/entendendo-o-dom/modulos/eventos-dom/)
+# [Eventos DOM](https://www.cursoemvideo.com/curso/javascript/aulas/entendendo-o-dom/modulos/eventos-dom/)
 
 # Alguns eventos com mouse
 * `mouseenter` - Quando move o mouse para dentro do elemento.
