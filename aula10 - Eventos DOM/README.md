@@ -14,5 +14,7 @@
 
 # Funções
 function ação(parametros){
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`bloco `
+
 }
