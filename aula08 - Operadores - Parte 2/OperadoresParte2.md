@@ -1,4 +1,4 @@
-[Aula 08 - Operadores - Parte 02](https://www.cursoemvideo.com/curso/javascript/aulas/comandos-basicos-do-javascript/modulos/operadores-parte-2/)
+# [Aula 08 - Operadores - Parte 02](https://www.cursoemvideo.com/curso/javascript/aulas/comandos-basicos-do-javascript/modulos/operadores-parte-2/)
 # Operadores
 ## Relacionais
 ~~~javascript
