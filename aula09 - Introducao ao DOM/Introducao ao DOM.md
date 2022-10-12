@@ -1,4 +1,4 @@
-[Aula 09 - Introdução ao DOM](https://www.cursoemvideo.com/curso/javascript/aulas/entendendo-o-dom/modulos/introducao-ao-dom/)
+# [Aula 09 - Introdução ao DOM](https://www.cursoemvideo.com/curso/javascript/aulas/entendendo-o-dom/modulos/introducao-ao-dom/)
 
 # **DOM - Documento Object Model**
 - Conjunto de objetos dentro do navegador que dá acesso aos componentes internos do website.
